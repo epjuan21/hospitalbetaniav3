@@ -1,0 +1,53 @@
+Envío credenciales para el servicio de hosting para el dominio hospitalbetania.com.co:
+
+ 
+
+ 
+
+URL:               www.hospitalbetania.com.co
+
+FTP user:        hospitalbetaniaftp
+
+FTP passwd:       Cahghah1
+
+ 
+
+Nota:  El contenido de la página, debe ir dentro de la carpeta llamada “/web” .
+
+ 
+
+Panel de control:
+
+ 
+
+URL:                    http://webhosting.edatel.net.co:8080
+
+User:                   hospitalbetania
+
+Passwd:              	Cahghah1
+
+ 
+
+Estadísticas
+
+ 
+
+URL:  http://www.hostpitalbetania.com.co/stats
+
+User: admin
+
+Pass: Cahghah1
+
+
+Base de datos
+
+Usuairo: 	c21root
+Contraseña	12321232
+
+
+DNS Clic Panda
+Nombre de Host	Dirección IP:
+ns-es.1and1-dns.es	217.160.80.5
+ns-es.1and1-dns.biz	217.160.81.5
+ns-es.1and1-dns.com	217.160.82.5
+ns-es.1and1-dns.org	217.160.83.5
