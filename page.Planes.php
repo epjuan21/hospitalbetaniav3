@@ -38,6 +38,13 @@
 				<small>Publicado 29 de Mayo de 2015</small>
 				</a>
 
+				<a href="https://drive.google.com/file/d/0B88B_ynqeND5YktBbHFoVjJVX2s/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento al Plan Anticorrupción 2015</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 30 de Septiembre de 2015</small>
+				</a>
 
 			</div>			
 
