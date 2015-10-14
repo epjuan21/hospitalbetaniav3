@@ -1,4 +1,5 @@
         <section class="section-bg-1">
+            <h2 class="offscreen">Carrusel</h2>
             <div class="container">
                 <div id="slider-1" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
@@ -66,16 +67,6 @@
             
         </section>
 
-        <section class="section-bg-2">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <h1><strong>Hospital San Antonio de Betania.</strong></h1>Donde la salud y la atención humanizada son lo esencial
-                    </div>
-                </div>
-            </div>
-        </section>
-
 <!-- Novedades -->
 
 <div class="section section-title">
@@ -112,6 +103,7 @@
             <div class="col-lg-3 col-md-3 col-sm-4">
 
                 <aside class="aside">
+                    <h2>Vinculos</h2>
 
                     <a href="?menu=29"><img class="img-thumbnail img-responsive" src="img/Procuraduria.jpg"></a>
 
@@ -146,19 +138,6 @@
         </div>        
 
     </div>
-
-    <div class="row">
-
-        <div class="col-lg-3">
-
-            <aside class="aside">
-
-            </aside>
-
-        </div>
-        
-    </div>
-
 
 </div>
 

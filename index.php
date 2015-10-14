@@ -40,12 +40,13 @@ if (isset($_GET['menu'])){
         <![endif]-->
     </head>
     <body>
-
+        <h1 class="offscreen">Hospital San Antonio - Betania</h1>
         <header>
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-md-12 col-lg-12">
                         <nav class="navbar navbar-default" role="navigation">
+                            <h2 class="offscreen">Menú Principal</h2>
                                 <div class="navbar-header">
                                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                                     <span class="sr-only">Toggle navigation</span>
@@ -121,8 +122,6 @@ if (isset($_GET['menu'])){
             </div>
         </header>
 
-        <section>
-
             <!-- Contenido Principal -->
 
             <?php
@@ -139,8 +138,6 @@ if (isset($_GET['menu'])){
                     include ("inicio.php");
                 }
             ?>
-
-        </section>
 
         <section>
 

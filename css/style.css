@@ -5969,3 +5969,14 @@ footer ul {
  .linea-derecha {
     border-right: 1px solid #BDC3C7;
  }
+
+ .offscreen {
+  position: absolute;
+  clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+ }
