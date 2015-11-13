@@ -7,8 +7,10 @@
         <br>
 
     <div class="row">
+        <div class="col-xs-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5a2o2aDBqQktkUlk/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Octubre 2015</strong></a>
-            <br>        
+            <br>    
+        </div>    
     </div>
 
     <div class="row">
