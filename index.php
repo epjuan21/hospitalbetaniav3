@@ -9,6 +9,7 @@ if (isset($_GET['menu'])){
 <html lang="es">
     <head>
         <meta charset="utf-8">
+
         <title>ESE Hospital San Antonio - Betania</title>
         <meta name="author" content="Juan Fernando Ramirez Velez">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
