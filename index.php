@@ -10,7 +10,6 @@ if (isset($_GET['menu'])){
     <head>
         <meta charset="utf-8">
         <title>ESE Hospital San Antonio - Betania</title>
-
         <meta name="author" content="Juan Fernando Ramirez Velez">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1">
         <meta name="description" content="Página Oficial de la Empresa Social del Estado Hospital San Antonio del Municipio de Betania en el Suroeste de Antioquia" />
