@@ -79,6 +79,30 @@
 
 <div class="container">
 
+
+    <div class="row">
+    
+        <div class="col-lg-9">
+            
+            <h3>Liquidación de Saludcoop, demostración de incapacidad del gobierno para manejar la salud de los Colombianos</h3>
+    
+            <p>El gobierno nacional con la liquidación de Saludcoop da muestras de una
+            irresponsabilidad total frente al manejo de la salud de los colombianos al tomar una
+            medida de carácter administrativo sin que se garantice la continuidad en los tratamientos
+            de los pacientes. Señalar que las personas serán trasladas a otra EPS no es per se
+            garantía de que de manera inmediata los tratamientos en curso continúen con la
+            oportunidad que se requiere y no se someta a las personas a nuevos trámites,
+            autorizaciones, y cambios de IPS. Es una decisión que privilegia la sostenibilidad
+            financiera por sobre la salud.</p>
+
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5T0ZwRjZFT2lqNDA/view?usp=sharing" target="_blank">Ver Documento Completo ...</a>
+
+        </div>
+
+         
+
+    </div>
+
         <div class="row">
 
             <div class="col-lg-9 col-md-9 col-sm-8 linea-derecha">
