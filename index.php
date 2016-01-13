@@ -219,7 +219,7 @@ if (isset($_GET['menu'])){
 
                 <div class="row">
                     <div class="col-xs-6 col-sm-6 col-lg-6 col-md-6">
-                        <a href="index.php">2014 &copy; Hospital San Antonio - Betania Antioquia</a>
+                        <a href="index.php">2016 &copy; Hospital San Antonio - Betania Antioquia</a>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-lg-6 col-md-6">
                         <p class="text-right">Diseñado Por: Juan Fernando Ramírez Vélez</p>
