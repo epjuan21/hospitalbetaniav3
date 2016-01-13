@@ -7,6 +7,12 @@
         <br>
 
     <div class="row">
+        
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5M2dsTEZCR0JScjA/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Diciembre 2015</strong></a>
+            <br>    
+        </div>    
+
         <div class="col-xs-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5a2o2aDBqQktkUlk/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Octubre 2015</strong></a>
             <br>    
