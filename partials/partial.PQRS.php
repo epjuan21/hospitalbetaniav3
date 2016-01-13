@@ -76,7 +76,7 @@
 
     </div>
 
-    <div class="row">
+<!--     <div class="row">
 
         <div class="col-xs-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5Q1NtWENNS2FyR28/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Septiembre 2014</strong></a>
@@ -93,9 +93,9 @@
             <br>
         </div>
 
-    </div>
+    </div> -->
 
-    <div class="row">
+<!--     <div class="row">
 
         <div class="col-md-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5OXhnRnB0c1pjX2M/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Julio 2014</strong></a>
@@ -112,9 +112,9 @@
             <br>
         </div>
 
-    </div>
+    </div> -->
 
-    <div class="row">
+<!--     <div class="row">
 
         <div class="col-md-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5eWxzXzdEOGFMekE/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Abril 2014</strong></a>
@@ -131,9 +131,9 @@
             <br>
         </div>
 
-    </div>
+    </div> -->
     
-    <div class="row">
+<!--     <div class="row">
 
         <div class="col-md-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5Ujc3TTVQLW9TeEE/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Enero 2014</strong></a>
@@ -141,4 +141,4 @@
         </div>
 
     </div>
-
+ -->
