@@ -57,7 +57,7 @@
 
     </div>
 
-    <div class="row">
+<!--     <div class="row">
 
         <div class="col-xs-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5azdPNHd6WlE0cXc/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Diciembre 2014</strong></a>
@@ -74,7 +74,7 @@
             <br>
         </div>        
 
-    </div>
+    </div> -->
 
 <!--     <div class="row">
 
