@@ -15,41 +15,39 @@
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
-                          <img src="img/img6.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img6.jpg" alt="...">
                           <div class="carousel-caption">
-                            <h3>Entrega de Equipos Biomédicos a la Comunidad</h3>
-                            <p>Estos equipos se adquirieron con el proposito de ayudar a los profesionales de la salud a obtener un mejor diagnóstico y así garantizar la mejor atención a la comunidad</p>
+                            <h3>Odontología</h3>                    
                           </div>
                         </div>
                         <div class="item">
-                          <img src="img/img7.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img7.jpg" alt="...">
                           <div class="carousel-caption">
-                            <h3>Laboratorio</h3>
-                            <p>Nuevo Equipo de Hematología</p>
+                            <h3>Crecimiento y Desarrollo</h3>
                           </div>
                         </div>
                         <div class="item">
-                          <img src="img/img8.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img8.jpg" alt="...">
                           <div class="carousel-caption">
-                            <h3>Ambulancia</h3>
+                            <h3>Higiene Oral</h3>
                           </div>
                         </div>
                         <div class="item">
-                          <img src="img/img9.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img9.jpg" alt="...">
                           <div class="carousel-caption">
-                            <h3>Dotación Médica</h3>
+                            <h3>Consulta Médica General</h3>
                           </div>
                         </div> 
                         <div class="item">
-                          <img src="img/img1.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img1.JPG" alt="...">
                           <div class="carousel-caption">
                             <h3>Hospital San Antonio del Municipio de Betania</h3>
                           </div>
                         </div>
                         <div class="item">
-                          <img src="img/img2.jpg" alt="...">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img2.jpg" alt="...">
                           <div class="carousel-caption">
-                            <h3>Entrada Principal</h3>
+                            <h3>Vacunación</h3>
                           </div>
                         </div>
                     </div>
