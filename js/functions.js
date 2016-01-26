@@ -31,6 +31,8 @@ $(document).on('ready',function()
                 });
 
 
+                $('a.gallery').colorbox({ opacity:0.5 , rel:'group1' });
+
 	// Validacion Formulario de Contacto
 
 	$("#formEnviarComentario").submit(function()

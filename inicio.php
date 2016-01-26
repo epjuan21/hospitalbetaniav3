@@ -10,11 +10,18 @@
                         <li data-target="#slider-1" data-slide-to="3"></li>
                         <li data-target="#slider-1" data-slide-to="4"></li>
                         <li data-target="#slider-1" data-slide-to="5"></li>
+                        <li data-target="#slider-1" data-slide-to="6"></li>
                     </ol>
 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner">
                         <div class="item active">
+                          <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/Ambulancia.jpg" alt="...">
+                          <div class="carousel-caption">
+                            <h3>Nueva Ambulancia</h3>                    
+                          </div>
+                        </div>
+                        <div class="item">
                           <img src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/CARRUSEL/img6.jpg" alt="...">
                           <div class="carousel-caption">
                             <h3>Odontología</h3>                    
@@ -77,10 +84,56 @@
 
 <div class="container">
 
+    <div class="row">
+    
+        <div class="col-lg-12">
+        
+            <h3>Nueva Ambulancia</h3>
+
+            <p>La ESE Hospital San Antonio ahora cuenta con una nueva Ambulancia de Traslado Asistencial Básico 
+            totalmente equipada para seguir mejorando los servicios de nuestro hospital, para comodidad 
+            y seguridad de toda la comunidad betaneña, siguen los logros de la gestión!!</p>
+       
+            <p>
+                <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia1.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia1.jpg" alt="" width="200"></a>
+                <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia2.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia2.jpg" alt="" width="200"></a>
+                <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia3.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia3.jpg" alt="" width="200"></a>
+                <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia4.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia4.jpg" alt="" width="200"></a>
+                <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia7.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia7.jpg" alt="" width="200"></a>
+
+            </p>
+
+            <p>
+            <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia5.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia5.jpg" alt="" width="200"></a>
+            <a class="group1" href="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia6.jpg" title="Ambulancia"><img class="img-thumbnail" src="https://s3-us-west-2.amazonaws.com/hospitalbetania/IMAGENES/Ambulancia/Ambulancia6.jpg" alt="" width="200"></a>
+            </p>
+
+
+        </div>
+
+    </div>  
+
+    <div class="row">
+
+        <div class="col-lg-12">
+                  
+            <hr>
+
+            <h3>Novedades en el Servicio de Fisioterapia en la ESE Hospital San Antonio de Betania</h3>
+            <p>
+                Este servicio se estara prestando a la comunidad los dias Jueves y Sabados, 
+                esto con el fin de garantizar el acceso al servicio de nuestra población rural ya que
+                estos días hay transporte garantizado para las veredas.
+            </p> 
+
+            <hr>  
+        </div>    
+
+    </div>
 
     <div class="row">
     
-        <div class="col-lg-9">
+        <div class="col-lg-12">
             
             <h3>Liquidación de Saludcoop, demostración de incapacidad del gobierno para manejar la salud de los Colombianos</h3>
     
@@ -97,53 +150,14 @@
 
         </div>
 
-         
-
     </div>
 
-        <div class="row">
-
-            <div class="col-lg-9 col-md-9 col-sm-8 linea-derecha">
-                    
-            <hr>
-
-                    <h3>Nuevo Servicio de Fisioterapia en la ESE Hospital San Antonio de Betania</h3>
-                    <p>
-                        En La Ese Hospital San Antonio se comenzará a prestar el servicio de Fisioterapia.
-                        Esta Servicio ya se encuentra habilitado ante la Secretaria Seccional de Salud y Protección Social
-                    </p>
-                    <p>   
-                        Ya se tiene contrato con Saviasalud y Ecoopsos, se esta negociando con La Nueva EPS y SALUDCOOP.
-                    </p>
-                    <p>
-                        La tarifa particular sera de $14.800 por sesión.
-                    </p>          
-        
-            <hr>  
-            </div>    
-
-            <div class="col-lg-3 col-md-3 col-sm-4">
-
-                <aside class="aside">
-                    <h2>Vinculos</h2>
-
-                    <a href="?menu=29"><img class="img-thumbnail img-responsive" src="img/Procuraduria.jpg"></a>
-
-                </aside>
-
-            </div>
-
-        </div>
-
 </div>
-
 
 
 <div class="container">
 
     <div class="row">
-
-        <div class="col-lg-9 col-md-9 col-sm-9 linea-derecha">
 
             <h3>Rendición de Cuentas</h3>
 
