@@ -84,6 +84,25 @@
 
 <div class="container">
 
+
+    <div class="row">
+        
+    <div class="col-lg-12">
+        <h3>Noticias para la Comunidad Betaneña</h3>
+
+        <p>A partir de la próxima semana, nuestro hospital tendrá nuevamente 6 médicos durante 
+        todo el año e incluso algunos meses contará con 7 profesionales de esta disciplina, 
+        mejorando así la oportunidad en la consulta externa, problema que se venía presentando 
+        desde hace 4 meses por la escasez de médicos para laborar en los municipios pero que hoy
+         ha quedado superada esta situación. Les agradecemos a todos los usuarios la comprensión y 
+         la paciencia con este tema.</p>
+
+            <hr>
+         
+    </div>
+
+    </div>
+
     <div class="row">
     
         <div class="col-lg-12">
