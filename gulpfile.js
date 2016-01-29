@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+var concat = require('gulp-concat');
 var webserver = require('gulp-webserver');
 var sass = require('gulp-sass');
 var minifyCss  = require('gulp-minify-css');
@@ -12,18 +13,18 @@ var config = {
 	styles: {
 		main: './src/scss/style.scss',
 		watch: './src/scss/**/*.scss',
-		output: './css'
+		output: './dist/css'
 	},
 	html: {
-		watch: './dist/*.html'
+		watch: './dist/*.php'
 	},
 	scripts: {
-		main: './src/scripts/main.js',
+		main: './src/scripts/*.js',
 		watch: './src/scripts/**/*.js',
 		output: './dist/js'
 	},
 	image: {
-		watch: ['./scr/img/*.png', './scr/img/*.jpg', './scr/img/*.jpeg'],
+		watch: ['./scr/img/**/*.png', './scr/img/**/*.jpg', './scr/img/**/*.jpeg'],
 		output: './dist/img'
 	}
 }
@@ -35,11 +36,18 @@ gulp.task('build:css', function(){
 		.pipe(gulp.dest(config.styles.output));
 });
 
-gulp.task('watch', function (){
-	gulp.watch(config.styles.watch, ['build:css']);
+gulp.task('build:js', function (){
+	gulp.src(config.scripts.main)
+		.pipe(concat('bundle.js'))
+		//.pipe(uglify())
+		.pipe(gulp.dest(config.scripts.output))
 });
 
+gulp.task('watch', function (){
+	gulp.watch(config.styles.watch, ['build:css']);
+	gulp.watch(config.scripts.watch, ['build:js']);
+});
 
-gulp.task('build', ['build:css'])
+gulp.task('build', ['build:css', 'build:js'])
 
 gulp.task('default', ['build']);
