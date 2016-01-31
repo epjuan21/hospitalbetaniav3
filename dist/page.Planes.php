@@ -76,6 +76,19 @@
 
 		<div class="col-lg-12">
 			<div class="list-group">
+				<a href="https://drive.google.com/file/d/0B88B_ynqeND5VmY1aXIzTWVWLW8/view?usp=sharing" target="_blank" class="list-group-item">
+				<h4 class="list-group-item-heading">Plan de Acción 2016</h4>
+				<p class="list-group-item-text">
+				Plan de Acción Institucional para el 2016. <br>
+				<hr>
+				<small>Publicado en Enero 31 de 2016</small>
+				</p>
+				</a>
+			</div>			
+		</div>
+
+		<div class="col-lg-12">
+			<div class="list-group">
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5SW5SSjZhRmxwMU0/view?usp=sharing" target="_blank" class="list-group-item">
 				<h4 class="list-group-item-heading">Plan de Acción 2015</h4>
 				<p class="list-group-item-text">
