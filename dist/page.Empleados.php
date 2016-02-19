@@ -21,13 +21,29 @@
 	<div class="row">
 		
 		<div class="col-lg-12">		
-			<iframe width="1100" height="615" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?cid=8D6B985D07032D82&resid=8D6B985D07032D82%211958&authkey=ALzaAP5oZbThSJs&em=2&wdAllowInteractivity=False&Item='EMPLEADOS'!A1%3AG25&wdHideGridlines=True&wdDownloadButton=True"></iframe>
 
+			<div class="panel panel-default">
+				<div class="panel-heading">Empelados</div>
+				<div class="panel-body">
+					<ul>
+						<li><a href="https://drive.google.com/file/d/0B88B_ynqeND5QVVJMkdQSU1EYms/view?usp=sharing" target="_blank">Listado de Empleados</a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="panel panel-default">
+				<div class="panel-heading">Contratistas</div>
+				<div class="panel-body">
+					<ul>
+						<li><a href="https://drive.google.com/file/d/0B88B_ynqeND5ak5lTGY1VnJyQ2c/view?usp=sharing" target="_blank">Listado de Contratistas</a></li>
+					</ul>
+				</div>
+			</div>		
+	
 		</div>
 
 		<div class="col-lg-12">		
 
-			<iframe width="1100" height="475" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?cid=8D6B985D07032D82&resid=8D6B985D07032D82%211958&authkey=ALzaAP5oZbThSJs&em=2&wdAllowInteractivity=False&Item='CONTRATISTA'!A1%3AE13&wdHideGridlines=True&wdDownloadButton=True"></iframe>
 		</div>
 	</div>
 
