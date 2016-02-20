@@ -135,7 +135,7 @@ require_once('lib/recaptchalib.php');
 					</div>
 				</div>
 
-<!-- 				<div class="row">
+ 				<div class="row">
 
 					<div class="col-lg-7">
 						<h5>Ingrese el texto de la imagen</h5>
@@ -169,7 +169,7 @@ require_once('lib/recaptchalib.php');
 
 					</div>
 
-				</div> -->
+				</div>
 				<br>
 				<button type="submit" class="btn btn-primary">Enviar</button>
 
