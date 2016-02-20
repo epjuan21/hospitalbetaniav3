@@ -61,6 +61,136 @@
 	</div>
 
 	<div class="row">
+			
+		<div class="col-md-12">
+			
+			<div class="page-header">
+				<h3>Contratos 2016</h3>
+			</div>
+
+
+			<table class="table table-triped table-bordered table-condensed">
+				<thead>
+					<tr>
+						<th>Número</th>
+						<th>Objeto del Contrato</th>
+					</tr>
+				</thead>
+				<tbody>
+
+					<tr>
+						<td>C-001-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5QktlUGxzRTk4dnc/view?usp=sharing" target="_blank">Suministro de alimentación a los pacientes que se encuentran hospitalizados, y al personal de la ESE, de conformidad con las minutas nutricionales suministradas por la ESE Hospital San Antonio de Betania</a></td>
+					</tr>
+
+					<tr>
+						<td>C-002-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5cWx0UDJYQTJHMmc/view?usp=sharing" target="_blank">Suministro y Servicio continuo de gasolina corriente, ACPM, Aceites, Aditivos y otros elementos a los vehiculos de placas: Ambulancias: OKE259, OKU197, Camioneta OKE541 y Motocicleta SJR86A de Propiedad de la ESE</a></td>
+					</tr>
+					
+					<tr>
+						<td>C-003-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5aU82c1FsWUdvbUU/view?usp=sharing" target="_blank">Alquiler de equipos biomedicos para el soporte asistencial de respiración terapéutica - concentradores de oxígeno</a></td>
+					</tr>
+
+					<tr>
+						<td>C-004-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5aFRCRDBtWFo1ZTQ/view?usp=sharing" target="_blank">Suministro de oxigeno medicinal gaseoso a través de cilindros de 6.5 Metros Cubicos</a></td>
+					</tr>
+					
+					<tr>
+						<td>C-005-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5S2ZKdFM5ekxIUWM/view?usp=sharing" target="_blank">Suministro de material de laboratorio, imagenología</a></td>
+					</tr>
+
+					<tr>
+						<td>C-006-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5MW1Qb3J1LWRpVjQ/view?usp=sharing" target="_blank">Suministro de elementos de oficina, útiles y papelería</a></td>
+					</tr>
+
+					<tr>
+						<td>C-007-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5akxxVlpmaGtFMUk/view?usp=sharing" target="_blank">Prestación de Servicios de Recolección, Transporte, Tratamiento y Disposición Final de Residuos</a></td>
+					</tr>
+
+					<tr>
+						<td>C-008-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5UUJmVE5rdkdQdWc/view?usp=sharing" target="_blank">Suministro de formatos de papelería impresa y elementos de oficina</a></td>
+					</tr>
+
+					<tr>
+						<td>C-009-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5YnV3dy00NmRjSnc/view?usp=sharing" target="_blank">Mantenimiento preventivo y correctivo de los vehiculos de la ESE</a></td>
+					</tr>
+
+					<tr>
+						<td>C-010-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5Nk4yejQ3c2tOajA/view?usp=sharing" target="_blank">Suministro de insumos de Aseo y Lavanderia</a></td>
+					</tr>
+
+					<tr>
+						<td>C-012-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5R0s0ZTY3YmROcmc/view?usp=sharing" target="_blank">Suministro de Medicamentos, Material Medico Quirurgico, de Laboratorio e Imagenología</a></td>
+					</tr>
+
+					<tr>
+						<td>C-013-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5d2YtV1RXMzVrSGM/view?usp=sharing" target="_blank">Analisis, interpretación y reporte de resultados de citologías cérvico uterinas de la población femenina para la detección oportuna de cáncer cervico uterino</a></td>
+					</tr>
+
+					<tr>
+						<td>C-014-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5eVA1bkhDS3Y3VGs/view?usp=sharing" target="_blank">Suministro de insumos de aseo, mantenimiento y elementos de cafetería</a></td>
+					</tr>
+
+					<tr>
+						<td>C-015-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5bVdMQ2RsRVZnN3c/view?usp=sharing" target="_blank">Servicio de alquiler de fotocopiadoras e impresoras.</a></td>
+					</tr>
+
+					<tr>
+						<td>OS-017-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5dlZhMHlXTnAzRVk/view?usp=sharing" target="_blank">Servicios Profesionales de Asesoría Jurídica y Administrativa a la ESE y la Representación Judicial</a></td>
+					</tr>
+
+					<tr>
+						<td>OS-018-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5OVA5M1JtQ0c1bGs/view?usp=sharing" target="_blank">Servicios Profesionales de Asesoría Contable a la ESE</a></td>
+					</tr>
+
+					<tr>
+						<td>OS-019-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5Q1VFUEtlbFlYTms/view?usp=sharing" target="_blank">Servicios Profesionales de acompañamiento y asesoría en la implementación del Modelo Estándar de Control Interno (MECI), de acuerdo a la normatividad vigente a la ESE.</a></td>
+					</tr>
+
+					<tr>
+						<td>C-020-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5ZHJPV2xHVWY4VFk/view?usp=sharing" target="_blank">Servicio de Mensajería y Encomiendas</a></td>
+					</tr>
+
+					<tr>
+						<td>C-021-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5aHRTOFlFSlJGVEU/view?usp=sharing" target="_blank">Servicio de demolición de piso, construcción de dos cañuelas y acabado de desagues en el parqueadero de las ambulancias de la ESE.</a></td>
+					</tr>
+
+					<tr>
+						<td>C-022-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5eENpOHB5S00ybkk/view?usp=sharing" target="_blank">Servicio de Fisioterapipa para los usuarios de la ESE Hospita San Antonio de Betania</a></td>
+					</tr>
+
+					<tr>
+						<td>C-023-2016</td>
+						<td><a href="https://drive.google.com/file/d/0B88B_ynqeND5MUJpRlY0MUFfb00/view?usp=sharing" target="_blank">Mantenimiento preventido de los equipos biomedicos de la ESE</a></td>
+					</tr>
+
+				</tbody>
+			</table>
+
+		</div>
+
+	</div>
+
+	<div class="row">
 
 		<div class="col-md-12">
 
