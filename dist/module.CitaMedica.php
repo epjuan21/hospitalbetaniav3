@@ -11,20 +11,20 @@ $Hora = substr($fechaHora, 17, 5);
 
 // CODIGO PARA VALIDAR EL RECAPTCHA
 
-require_once('lib/recaptchalib.php');
-$privatekey = "6LewvPgSAAAAAM7n6Ap9AeCuOhWiCI784Ytcg4p7";
-$resp = recaptcha_check_answer ($privatekey,
-                            $_SERVER["REMOTE_ADDR"],
-                            $_POST["recaptcha_challenge_field"],
-                            $_POST["recaptcha_response_field"]);
+// require_once('lib/recaptchalib.php');
+// $privatekey = "6LewvPgSAAAAAM7n6Ap9AeCuOhWiCI784Ytcg4p7";
+// $resp = recaptcha_check_answer ($privatekey,
+//                             $_SERVER["REMOTE_ADDR"],
+//                             $_POST["recaptcha_challenge_field"],
+//                             $_POST["recaptcha_response_field"]);
 
-if (!$resp->is_valid) {
+// if (!$resp->is_valid) {
 
-header ("Location: index.php?menu=27&ErrorCaptcha=1");
+// header ("Location: index.php?menu=27&ErrorCaptcha=1");
 
-exit;
+// exit;
 
-} else {
+// } else {
 // reCAPTCHA Correcto
 
 	// CODIGO PARA ENVIAR EL MENSAJE A LOS CORREOS INDICADOS	
@@ -76,9 +76,5 @@ $titulo= "=?utf-8?b?".base64_encode($tit)."?=";
 mail($para, $titulo, $mensaje, $cabeceras);
 
 header ("Location: index.php?menu=27&Estado=1");
-
-}
-
-
 
 ?>
