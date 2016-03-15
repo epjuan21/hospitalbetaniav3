@@ -178,7 +178,7 @@ require_once('lib/recaptchalib.php');
 			</form>
 
 		</div>		
-e
+
 		<hr>
 
 	</div>
