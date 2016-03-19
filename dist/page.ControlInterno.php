@@ -19,7 +19,7 @@
 			<p class="list-group-item-text">
 				<p>Informe Pormenorizado Control Interno - Ley 1474 de 2011. Periodo Evaluado Noviembre 2015 - Febrero 2016</p>
 			<hr>
-			<small>Publicado Marzo 01 de 2016</small>
+			<small>Publicado Marzo 18 de 2016</small>
 			</p>
 			</a>
 		</div>
