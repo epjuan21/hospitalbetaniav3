@@ -86,6 +86,22 @@
 
 
     <div class="row">
+
+    <div class="col-lg-12">
+        
+        <h3>Convocatoria Pública</h3>
+        <p>La Empresa Social del Estado Hospital San Antonio convoca a la Ciudadanía en general a participar de la Audiencia Pública de Rendición de Cuentas de la vigencia 2015</p>
+
+        <ul>
+            <li>Fecha: Martes 26 de Abril de 2016</li>
+            <li>4:00 PM</li>
+            <li>Parque Educativo</li>
+        </ul>
+
+        <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5cl90d1ZuaENGUTQ/view?usp=sharing" target="_blank">Ver Documentos de Convocatoria</a></p>
+
+
+    </div>
         
     <div class="col-lg-12">
         <h3>Noticias para la Comunidad Betaneña</h3>
@@ -97,7 +113,7 @@
          ha quedado superada esta situación. Les agradecemos a todos los usuarios la comprensión y 
          la paciencia con este tema.</p>
 
-            <hr>
+        <hr>
          
     </div>
 
