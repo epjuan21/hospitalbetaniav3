@@ -85,6 +85,21 @@
 <div class="container">
 
     <div class="row">
+
+    <div class="col-lg-12">
+        
+        <h3>Convocatoria Pública</h3>
+        <p>La Empresa Social del Estado Hospital San Antonio convoca a la Ciudadanía en general a participar de la Audiencia Pública de Rendición de Cuentas de la vigencia 2015</p>
+
+        <ul>
+            <li>Fecha: Martes 26 de Abril de 2016</li>
+            <li>4:00 PM</li>
+            <li>Parque Educativo</li>
+        </ul>
+
+        <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5cl90d1ZuaENGUTQ/view?usp=sharing" target="_blank">Ver Documentos de Convocatoria</a></p>
+
+
             
             <div class="col-lg-12">
                     <h3>Invitación Personal</h3>
@@ -100,26 +115,10 @@ DE BETANIA Y QUE CUMPLAN LOS SIGUIENTES REQUISITOS:</p>
 
 <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5Z1Q2UXdkUlNreFk/view?usp=sharing" target="_blank">Ver Documento Completo y Requisitos</a>    </p>
             
-            <p>Publicado 03 de Mayo de 2016</p>
+            <p>Publicado 03 de Marzo de 2016</p>
             
             </div>
-           
-    </div>
-
-    <div class="row">
-
-    <div class="col-lg-12">
         
-        <h3>Convocatoria Pública</h3>
-        <p>La Empresa Social del Estado Hospital San Antonio convoca a la Ciudadanía en general a participar de la Audiencia Pública de Rendición de Cuentas de la vigencia 2015</p>
-
-        <ul>
-            <li>Fecha: Martes 26 de Abril de 2016</li>
-            <li>4:00 PM</li>
-            <li>Parque Educativo</li>
-        </ul>
-
-        <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5cl90d1ZuaENGUTQ/view?usp=sharing" target="_blank">Ver Documentos de Convocatoria</a></p>
 
 
     </div>
