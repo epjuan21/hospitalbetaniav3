@@ -84,6 +84,27 @@
 
 <div class="container">
 
+    <div class="row">
+            
+            <div class="col-lg-12">
+                    <h3>Invitación Personal</h3>
+                    
+                    <p>EL GERENTE DE LA E.S.E. HOSPITAL SAN ANTONIO INVITA A TODAS
+LAS PERSONAS QUE ESTÉN INTERESADAS EN PRESTAR SUS
+SERVICIOS, PARA LA EJECUCIÓN DE CONVENIO QUE SE FIRMARÁ
+CON EL DEPARTAMENTO DE ANTIOQUIA - GERENCIA DE INFANCIA,
+ADOLESCENCIA Y JUVENTUD, CUYO OBJETO ES AUNAR ESFUERZOS
+PARA EL DESARROLLO DE ACCIONES DE ATENCIÓN INTEGRAL A LA
+PRIMERA INFANCIA BAJO LA MODALIDAD FAMILIAR EN EL MUNICIPIO
+DE BETANIA Y QUE CUMPLAN LOS SIGUIENTES REQUISITOS:</p>
+
+<p><a href="https://drive.google.com/file/d/0B88B_ynqeND5Z1Q2UXdkUlNreFk/view?usp=sharing">Ver Documento Completo y Requisitos</a>    </p>
+            
+            <p>Publicado 03 de Mayo de 2016</p>
+            
+            </div>
+           
+    </div>
 
     <div class="row">
 
