@@ -98,7 +98,7 @@ PARA EL DESARROLLO DE ACCIONES DE ATENCIÓN INTEGRAL A LA
 PRIMERA INFANCIA BAJO LA MODALIDAD FAMILIAR EN EL MUNICIPIO
 DE BETANIA Y QUE CUMPLAN LOS SIGUIENTES REQUISITOS:</p>
 
-<p><a href="https://drive.google.com/file/d/0B88B_ynqeND5Z1Q2UXdkUlNreFk/view?usp=sharing">Ver Documento Completo y Requisitos</a>    </p>
+<p><a href="https://drive.google.com/file/d/0B88B_ynqeND5Z1Q2UXdkUlNreFk/view?usp=sharing" target="_blank">Ver Documento Completo y Requisitos</a>    </p>
             
             <p>Publicado 03 de Mayo de 2016</p>
             
