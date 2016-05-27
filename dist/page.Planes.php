@@ -29,6 +29,14 @@
 				</p>
 				</a>
 
+				<a href="https://drive.google.com/file/d/0B88B_ynqeND5YnQ1Yzk3WGFOOEE/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento al Plan Anticorrupción 2016</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 13 de Mayo de 2015</small>
+				</a>
+
 			</div>			
 
 		</div>
