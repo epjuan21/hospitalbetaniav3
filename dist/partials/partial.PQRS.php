@@ -7,6 +7,64 @@
         <br>
 
     <div class="row">
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5YjVkdVgzRGZfcjQ/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Septiembre 2016</strong></a>
+            <br>    
+        </div>  
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5bU44WW1zMmFkVHc/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Agosto 2016</strong></a>
+            <br>    
+        </div>    
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5RUFYbXJsRlBSc28/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Julio 2016</strong></a>
+            <br>    
+        </div>    
+        
+    </div>
+
+    <div class="row">
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5SDJVRVA1ZnRKbTQ/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Junio 2016</strong></a>
+            <br>    
+        </div>  
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5MGhCY3JJQXRkd2M/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Mayo 2016</strong></a>
+            <br>    
+        </div>    
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5M0dJVFRZcFROR00/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Abril 2016</strong></a>
+            <br>    
+        </div>    
+        
+    </div>
+
+    <div class="row">
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5ODRoN3V2eERJWkE/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Marzo 2016</strong></a>
+            <br>    
+        </div>  
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5MV9hRU5NbFV6SDg/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Febrero 2016</strong></a>
+            <br>    
+        </div>    
+
+        <div class="col-xs-4">
+            <a href="https://drive.google.com/file/d/0B88B_ynqeND5azN3WHl6R3JSaTQ/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Enero 2016</strong></a>
+            <br>    
+        </div>    
+
+    </div>
+
+
+    <div class="row">
         
         <div class="col-xs-4">
             <a href="https://drive.google.com/file/d/0B88B_ynqeND5M2dsTEZCR0JScjA/view?usp=sharing" target="_blank" class="btn btn-info btn-block" role="button"><strong>PQRS - Diciembre 2015</strong></a>
