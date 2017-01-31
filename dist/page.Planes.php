@@ -29,6 +29,14 @@
 				</p>
 				</a>
 
+				<a href="https://drive.google.com/file/d/0B88B_ynqeND5V2ktUXV2NFVZNW8/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento al Plan Anticorrupción Enero 2017</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 31 de Enero de 2017</small>
+
+
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5YWNtdmxyYXRkcnM/view?usp=sharing" target="_blank" class="list-group-item">
 				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento al Plan Anticorrupción Septiembre 2016</h5>
 				<p class="list-group-item-text">
