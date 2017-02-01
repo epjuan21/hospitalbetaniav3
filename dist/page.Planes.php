@@ -35,6 +35,8 @@
 				</p>
 				<hr>
 				<small>Publicado 31 de Enero de 2017</small>
+				</p>
+				</a>
 
 			</div>			
 
