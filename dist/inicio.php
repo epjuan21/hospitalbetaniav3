@@ -78,6 +78,21 @@
     
     <div class="container">
         <h2>Novedades</h2>
+            
+           <h3>Convocatoria</h3> 
+           <p>La ESE Hospital San Antonio de Betania abre convocatoria para proceso de selección de personal que prestará servicios de atención integral a la Primera Infancia
+            de nuestro municipio, en la modalidad de Entorno Familiar. Interesados llevar hoja de vida con sus respectivos soportes que acrediten experiencia
+            en trabajo con primera infancia.</p>    
+            
+            <h3>Requisitos</h3>
+            <ul>
+                <li>Licenciada en Primera Infancia o Educación Preescolar</li>
+                <li>Técnica en Primera Infancia</li>
+                <li>Madres Comunitarias que hayan realizado transito con el ICBF</li>
+                <li>Todos Acreditan Experiencia</li>
+            </ul>
+            
+            <p>Públicado en Febrero 09 de 2017</p>
     </div>
 
 </div>
