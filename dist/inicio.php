@@ -78,6 +78,23 @@
     
     <div class="container">
         <h2>Novedades</h2>
+
+
+
+        <h3>Rendición de Cuentas Públicas</h3>
+
+        <p>La Empresa Social del Estado Hospital San Antonio convoca a la Ciudadania en general a particupar de la Audiencia
+        Pública de Rendición de Cuentas de la vigencia 2016</p>
+
+        <ul>
+            <li>Fecha: Martes 04 de Abril de 2017</li>
+            <li>Hora: 2:00 pm</li>
+            <li>Parque Educativo</li>
+        </ul>
+
+        <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5VGoycHY4OXR5TjA/view?usp=sharing" target="_blank">Ver Documento</a></p>
+
+
             
            <h3>Convocatoria</h3> 
            <p>La ESE Hospital San Antonio de Betania abre convocatoria para proceso de selección de personal que prestará servicios de atención integral a la Primera Infancia
