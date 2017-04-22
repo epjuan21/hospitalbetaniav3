@@ -8,6 +8,16 @@
 	
 	<div class="row">
 
+		<div class="list-group">
+			<a href="https://drive.google.com/file/d/0B88B_ynqeND5SlJTWmRJSTZBUWs/view?usp=sharing" target="_blank" class="list-group-item">
+			<h4 class="list-group-item-heading">Rendición de Cuentas 2016</h4>
+			<p class="list-group-item-text">
+				<p>Rendición de Cuentas Realizada a la Comunidad de Betania en el mes de Abril de 2017</p>
+			<hr>
+			<small>Publicado Abril 21 de 2017</small>
+			</p>
+			</a>
+		</div>
 
 		<div class="list-group">
 			<a href="https://drive.google.com/file/d/0B88B_ynqeND5MjhrUVJyZmVLZW8/view?usp=sharing" target="_blank" class="list-group-item">
