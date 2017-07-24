@@ -33,6 +33,7 @@
 								<tr>
 									<th>Acto Contractual</th>
 									<th>Fecha o termino limite</th>
+									<th></th>
 								</tr>
 							</thead>
 							<tbody>
@@ -43,6 +44,9 @@
 									<td>
 										10 de Julio al 21 de Julio de 2017
 									</td>
+									<td>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5U0kxMV9uUEdXVjA/view?usp=sharing" target="_blank">Ver Documento</a>
+									</td>
 								</tr>
 								<tr>
 									<td>
@@ -50,6 +54,9 @@
 									</td>
 									<td>
 										24 de Julio al 03 de Agosto de 2017
+									</td>
+									<td>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5bldOSm53bUNVNGM/view?usp=sharing" target="_blank">Ver Documento</a>
 									</td>
 								</tr>
 								<tr>
@@ -59,6 +66,9 @@
 									<td>
 										24 de Julio de 2017
 									</td>
+									<td>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5ZXpnVXVQa3NJQUU/view?usp=sharing" target="_blank">Ver Documento</a>
+									</td>
 								</tr>				
 								<tr>
 									<td>
@@ -67,6 +77,7 @@
 									<td>
 										04 de Agosto al 11 de Agosto de 2017
 									</td>
+									<td></td>
 								</tr>	
 								<tr>
 									<td>
@@ -75,6 +86,7 @@
 									<td>
 										14 de Agosto de 2017
 									</td>
+									<td></td>
 								</tr>														
 								<tr>
 									<td>
@@ -83,6 +95,7 @@
 									<td>
 										15 de Agosto de 2017
 									</td>
+									<td></td>
 								</tr>
 								<tr>
 									<td>
@@ -91,13 +104,14 @@
 									<td>
 										Hasta el 31 de Agosto de 2017
 									</td>
+									<td></td>
 								</tr>								
 							</tbody>
 
 						</table>
 
 				<p>
-					<a href="https://drive.google.com/file/d/0B88B_ynqeND5U0kxMV9uUEdXVjA/view?usp=sharing" target="_blank">Ver Documento Original</a>
+
 				</p>
 
 			
