@@ -72,12 +72,14 @@
 								</tr>				
 								<tr>
 									<td>
-										Evaluación de las propuestas
+										Evaluación de las propuestas (Resolución 050)
 									</td>
 									<td>
 										04 de Agosto al 11 de Agosto de 2017
 									</td>
-									<td></td>
+									<td>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5VWVEal9aUWE4MTA/view?usp=sharing" target="_blank">Ver Documento</a>
+									</td>
 								</tr>	
 								<tr>
 									<td>
