@@ -124,7 +124,8 @@
 
 	</div>
 
-
+	<p>Publicado Septiembre 21 de 2017</p>
+	
 	<div class="row">
 		
 		<div class="col-md-4">
