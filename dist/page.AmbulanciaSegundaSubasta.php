@@ -39,13 +39,24 @@
 							<tbody>
 								<tr>
 									<td>
+										Cronograma Proceso de Venta
+									</td>
+									<td>
+										21 de Septiembre de 2017
+									</td>
+									<td>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5ZElHaS1mVEo2c2s/view?usp=sharing" target="_blank">Ver Documento</a>
+									</td>
+								</tr>
+								<tr>
+									<td>
 										Publicación de pliego o términos
 									</td>
 									<td>
 										21 de Septiembre al 25 de Septiembre de 2017
 									</td>
 									<td>
-										<a href="" target="_blank">Ver Documento</a>
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5bmpDMUpsTWdOT0E/view?usp=sharing" target="_blank">Ver Documento</a>
 									</td>
 								</tr>
 								<tr>
@@ -67,7 +78,7 @@
 										26 de Septiembre de 2017
 									</td>
 									<td>
-										<a href="" target="_blank">Ver Documento</a>
+										
 									</td>
 								</tr>				
 								<tr>
@@ -78,7 +89,7 @@
 										02 de Octubre de 2017
 									</td>
 									<td>
-										<a href="" target="_blank">Ver Documento</a>
+										
 									</td>
 								</tr>	
 								<tr>
