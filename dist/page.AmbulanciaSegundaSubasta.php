@@ -67,7 +67,7 @@
 										Septiembre 26 a Septiembre 30 de 2017
 									</td>
 									<td>
-										<a href="" target="_blank">Ver Documento</a>
+										
 									</td>
 								</tr>
 								<tr>
