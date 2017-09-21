@@ -80,7 +80,12 @@
 
         <h2>Novedades</h2>
 
+        <h3>Segunda Subasta Ambulancia</h3>
+        
+            <p>La Empresa Social del Estado Hosptial San Antonio del Municipio de Betania, informa a la comunidad que debido a que el proceso de subasta anterior se declaro desierto, se realiza nuevamente subasta de la Ambulancia Nissan Frontier D22 FZ, Modelo 2008, Color Blanco, Placa OKE 529</p>
 
+             <p><a href="?menu=33">Mas Información</a></p>
+            
         <h3>Subasta Ambulancia</h3>
 
 
