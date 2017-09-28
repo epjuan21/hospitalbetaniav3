@@ -78,7 +78,7 @@
 										26 de Septiembre de 2017
 									</td>
 									<td>
-										
+										<a href="https://drive.google.com/file/d/0B88B_ynqeND5cDFVVXd5c1JPQlk/view?usp=sharing" target="_blank">Ver Documento</a>
 									</td>
 								</tr>				
 								<tr>
