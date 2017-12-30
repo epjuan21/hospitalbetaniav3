@@ -22,6 +22,17 @@
 		<div class="col-xs-12">
 
 			<div class="panel panel-default">
+				<div class="panel-heading">Solicitud de Copia de Historia Clínica</div>
+				<div class="panel-body">
+					<ul>
+						<li><a href="https://drive.google.com/file/d/1kjMasmDPHLY5n4I_fm9q-0eCafsooXu0/view?usp=sharing">Procedimiento Solicutud Historia Clínica</a></li>
+						<li><a href="https://drive.google.com/file/d/1te2X40FMDruEV-haBMUHx5Nu2DvfudlU/view?usp=sharing">Formato Autorización Copia Historia Clínica - Terceros</a></li>
+					</ul>
+					
+				</div>
+			</div>
+			
+			<div class="panel panel-default">
 				<div class="panel-heading">Definición de Trámite</div>
 				<div class="panel-body">
 				Conjunto de pasos o acciones que se realice el usuario para solicitar o entregar información a la 
@@ -45,7 +56,6 @@
 			<div class="panel panel-default">
 				<div class="panel-heading">Como los puedo realizar?</div>
 				<div class="panel-body">
-
 					<ul class="list-group">
 						<li class="list-group-item">
 
