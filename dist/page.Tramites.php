@@ -20,17 +20,6 @@
 	<div class="row">
 
 		<div class="col-xs-12">
-
-			<div class="panel panel-default">
-				<div class="panel-heading">Solicitud de Copia de Historia Clínica</div>
-				<div class="panel-body">
-					<ul>
-						<li><a href="https://drive.google.com/file/d/1kjMasmDPHLY5n4I_fm9q-0eCafsooXu0/view?usp=sharing">Procedimiento Solicutud Historia Clínica</a></li>
-						<li><a href="https://drive.google.com/file/d/1te2X40FMDruEV-haBMUHx5Nu2DvfudlU/view?usp=sharing">Formato Autorización Copia Historia Clínica - Terceros</a></li>
-					</ul>
-					
-				</div>
-			</div>
 			
 			<div class="panel panel-default">
 				<div class="panel-heading">Definición de Trámite</div>
@@ -136,6 +125,17 @@
 					
 			</div>
 
+			<div class="panel panel-default">
+				<div class="panel-heading">Solicitud de Copia de Historia Clínica</div>
+				<div class="panel-body">
+					<ul>
+						<li><a href="https://drive.google.com/file/d/1kjMasmDPHLY5n4I_fm9q-0eCafsooXu0/view?usp=sharing" target="_blank">Procedimiento Solicutud Historia Clínica</a></li>
+						<li><a href="https://drive.google.com/file/d/1te2X40FMDruEV-haBMUHx5Nu2DvfudlU/view?usp=sharing" target="_blank">Formato Autorización Copia Historia Clínica - Terceros</a></li>
+					</ul>
+					
+				</div>
+			</div>
+			
 		</div>
 
 	</div>
