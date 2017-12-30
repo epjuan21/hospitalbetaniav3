@@ -46,86 +46,84 @@
 				<div class="panel-heading">Como los puedo realizar?</div>
 				<div class="panel-body">
 
-				</div>
+					<ul class="list-group">
+						<li class="list-group-item">
 
-				<ul class="list-group">
-					<li class="list-group-item">
+							<strong>Solicitar una cita médica</strong>
 
-						<strong>Solicitar una cita médica</strong>
+							<ul>
+								<li>Puede realizarse de manera Telefónica al 8435050 ext 0</li>
+								<li>Horario de Atención. Después de las 9:00 am</li>
+								<li>Asignación de Citas de Lunes a Viernes a las 7:30 am. Sábado a las 7:00 am</li>
+							</ul>
 
-						<ul>
-							<li>Puede realizarse de manera Telefónica al 8435050 ext 0</li>
-							<li>Horario de Atención. Después de las 9:00 am</li>
-							<li>Asignación de Citas de Lunes a Viernes a las 7:30 am. Sábado a las 7:00 am</li>
-						</ul>
+						</li>
 
-					</li>
+						<li class="list-group-item">
 
-					<li class="list-group-item">
+							<strong>Solicitud Cita Odontológica y Higiene Oral</strong>
 
-						<strong>Solicitud Cita Odontológica y Higiene Oral</strong>
+							<ul>
+								<li>Puede realizarse de manera Telefónica al 8435050 ext 107 y 123</li>
+								<li>Horario de Atención. A partir de las 8:00 am</li>
+								<li>Asignación de Citas de Lunes, Martes, Jueves y Viernes a partir de las 8:00 am a 12:00 pm y 1:00 pm a 5 pm</li>
+								<li>Miércoles y Sábado de 8:00 am a 2:00 pm</li>
+							</ul>
+						</li>
 
-						<ul>
-							<li>Puede realizarse de manera Telefónica al 8435050 ext 107 y 123</li>
-							<li>Horario de Atención. A partir de las 8:00 am</li>
-							<li>Asignación de Citas de Lunes, Martes, Jueves y Viernes a partir de las 8:00 am a 12:00 pm y 1:00 pm a 5 pm</li>
-							<li>Miércoles y Sábado de 8:00 am a 2:00 pm</li>
-						</ul>
-					</li>
+						<li class="list-group-item">
 
-					<li class="list-group-item">
+							<strong>Solicitud de Información </strong>
 
-						<strong>Solicitud de Información </strong>
+							<ul>
+								<li>Solitud de Copia de Historia Clínica. 
+									Por medio de un oficio radicado al archivo clínico o con 
+									autorización en caso de ser un tercero. 
+									Se tienen 15 días hábiles para su respuesta
+								</li>
+								<li>
+									Entrega de oficios, solicitudes, información en general se realiza un radicado interno, 
+									se distribuye a la dependencia o funcionario competente. 
+									Se tiene 15 días hábiles para dar su respuesta.
+								</li>
+							</ul>
 
-						<ul>
-							<li>Solitud de Copia de Historia Clínica. 
-								Por medio de un oficio radicado al archivo clínico o con 
-								autorización en caso de ser un tercero. 
-								Se tienen 15 días hábiles para su respuesta
-							</li>
-							<li>
-								Entrega de oficios, solicitudes, información en general se realiza un radicado interno, 
-								se distribuye a la dependencia o funcionario competente. 
-								Se tiene 15 días hábiles para dar su respuesta.
-							</li>
-						</ul>
+						</li>
 
-					</li>
+						<li class="list-group-item">
 
-					<li class="list-group-item">
+							<strong>Sugerencias, Quejas, reclamos y felicitaciones</strong>
 
-						<strong>Sugerencias, Quejas, reclamos y felicitaciones</strong>
-
-						<ul>
-							<li>
-								Se tramitan a través del buzón de sugerencias o 
-								de manera directa con la funcionaria de Atención al Usuario. 
-								Estas son analizadas por el comité y el gerente, 
-								se da respuesta las cuales son enviadas de forma escrita al usuario o 
-								publicadas en la cartelera institucional cuando no es posible identificarlo. 
-								Tiempo establecido 8 días
-							</li>
-						</ul>
+							<ul>
+								<li>
+									Se tramitan a través del buzón de sugerencias o 
+									de manera directa con la funcionaria de Atención al Usuario. 
+									Estas son analizadas por el comité y el gerente, 
+									se da respuesta las cuales son enviadas de forma escrita al usuario o 
+									publicadas en la cartelera institucional cuando no es posible identificarlo. 
+									Tiempo establecido 8 días
+								</li>
+							</ul>
 
 
-					</li>
+						</li>
 
-					<li class="list-group-item">
+						<li class="list-group-item">
 
-						<strong>Documentos Requeridos</strong>
+							<strong>Documentos Requeridos</strong>
 
-						<ul>
-							<li>
-								Es de gran ayuda contar con el documento de identidad al momento 
-								de solicitud de cita en cualquier dependencia ya que esto facilita y 
-								agiliza el trámite
-							</li>
-						</ul>
+							<ul>
+								<li>
+									Es de gran ayuda contar con el documento de identidad al momento 
+									de solicitud de cita en cualquier dependencia ya que esto facilita y 
+									agiliza el trámite
+								</li>
+							</ul>
 
-					</li>
-				</ul>
-
-
+						</li>
+					</ul>
+				</div>	
+					
 			</div>
 
 		</div>
