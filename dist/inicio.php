@@ -80,6 +80,12 @@
 
         <h2>Novedades</h2>
 
+        <h3>Actualización Trámites</h3>
+            
+        <p>Se informa a la comunidad que en la sección <i>Trámites</i>, se encuentra publicado el procedimiento para la solicitud de Copia de la Historia Clínica y el Formato para realizar dicha solicitud.</p>
+        
+        <p><a href="?menu=25">Ir a Trámites</a></p>
+            
         <h3>Segunda Subasta Ambulancia</h3>
         
             <p>La Empresa Social del Estado Hosptial San Antonio del Municipio de Betania, informa a la comunidad que debido a que el proceso de subasta anterior se declaro desierto, se realiza nuevamente subasta de la Ambulancia Nissan Frontier D22 FZ, Modelo 2008, Color Blanco, Placa OKE 529</p>
