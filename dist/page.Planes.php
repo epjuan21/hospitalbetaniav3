@@ -19,7 +19,7 @@
 		<div class="col-lg-12">
 			
 			<div class="list-group">
-
+				
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5SUtRZDlKMlRKSjQ/view?usp=sharing" target="_blank" class="list-group-item active">
 				<h4 class="list-group-item-heading">Plan Anticorrupción y de Atención al Ciudadano 2017</h4>
 				<p class="list-group-item-text">
@@ -28,7 +28,16 @@
 				<small>Publicado 31 de Enero de 2017</small>
 				</p>
 				</a>
-			
+						
+				<a href="https://drive.google.com/file/d/1ykkKq_RGku3ayMcV-0fewFe73AGE83Y3/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento Plan Anticorrupción Enero 2018</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 06 de Enero de 2018</small>
+				</p>
+				</a>
+		
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5U1d0ZUQ4WGl6NDQ/view?usp=sharing" target="_blank" class="list-group-item">
 				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento Plan Anticorrupción Septiembre 2017</h5>
 				<p class="list-group-item-text">
