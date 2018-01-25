@@ -153,6 +153,19 @@
 
 		<div class="col-lg-12">
 			<div class="list-group">
+				<a href="https://drive.google.com/file/d/1ipvaCXm2TvK2yi00YiyNUuiU0padqaGl/view?usp=sharing" target="_blank" class="list-group-item">
+				<h4 class="list-group-item-heading">Plan de Acción 2018</h4>
+				<p class="list-group-item-text">
+				Plan de Acción Institucional para el 2018. <br>
+				<hr>
+				<small>Publicado en Enero 25 de 2018</small>
+				</p>
+				</a>
+			</div>			
+		</div>
+
+		<div class="col-lg-12">
+			<div class="list-group">
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5Q1RpUVVZQW5Za3M/view?usp=sharing" target="_blank" class="list-group-item">
 				<h4 class="list-group-item-heading">Plan de Acción 2017</h4>
 				<p class="list-group-item-text">
