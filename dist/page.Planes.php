@@ -28,7 +28,17 @@
 				<small>Publicado 25 de Enero de 2018</small>
 				</p>
 				</a>
-						
+			
+				<a href="https://drive.google.com/file/d/1SveWNtEzyOTd59yOsXFUxb64r0cqrrHA/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Mapa de Riesgos Plan Anticorrupción Enero 2018</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 25 de Enero de 2018</small>
+				</p>
+				</a>
+			
+			
 			</div>			
 
 		</div>
