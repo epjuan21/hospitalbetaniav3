@@ -20,6 +20,24 @@
 			
 			<div class="list-group">
 				
+				<a href="https://drive.google.com/file/d/1AjOLg2hUz0YWxE4yaEpcVrnw100sRB9a/view?usp=sharing" target="_blank" class="list-group-item active">
+				<h4 class="list-group-item-heading">Plan Anticorrupción y de Atención al Ciudadano 2018</h4>
+				<p class="list-group-item-text">
+				Por medio de la cual se adopta el Plan Anticorrupción y de Atención al Ciudadano para el año 2018 de la ESE Hospital San Antonio del Municipio de Betania Antioquia. <br>
+				<hr>
+				<small>Publicado 25 de Enero de 2018</small>
+				</p>
+				</a>
+						
+			</div>			
+
+		</div>
+		
+		
+		<div class="col-lg-12">
+			
+			<div class="list-group">
+				
 				<a href="https://drive.google.com/file/d/0B88B_ynqeND5SUtRZDlKMlRKSjQ/view?usp=sharing" target="_blank" class="list-group-item active">
 				<h4 class="list-group-item-heading">Plan Anticorrupción y de Atención al Ciudadano 2017</h4>
 				<p class="list-group-item-text">
