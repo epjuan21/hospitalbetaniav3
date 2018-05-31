@@ -39,6 +39,15 @@
 				</a>
 			
 			
+				<a href="https://drive.google.com/file/d/1K2GzxMizOgsm6lQZvEfDEFkoR-3QShqS/view?usp=sharing" target="_blank" class="list-group-item">
+				<h5 class="list-group-item-heading"><i class="fa fa-download"></i> Informe de Seguimiento Plan Anticorrupción Abril 2018</h5>
+				<p class="list-group-item-text">
+				</p>
+				<hr>
+				<small>Publicado 31 de Mayo de 2018</small>
+				</p>
+				</a>
+		
 			</div>			
 
 		</div>
