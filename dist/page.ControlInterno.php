@@ -14,6 +14,17 @@
 	<div class="row">
 
 		<div class="list-group">
+			<a href="https://drive.google.com/file/d/1hec7jR5hVz30Tjoo-5cC8sQzPhbciOpN/view?usp=sharing" target="_blank" class="list-group-item">
+			<h4 class="list-group-item-heading">Informe Pormenorizado Control Interno - Marzo - Junio 2018</h4>
+			<p class="list-group-item-text">
+				<p>Informe Pormenorizado Control Interno - Ley 1474 de 2011. Periodo Evaluado: Marzo - Junio 2018</p>
+			<hr>
+			<small>Publicado Julio 12 de 2018</small>
+			</p>
+			</a>
+		</div>	
+		
+		<div class="list-group">
 			<a href="https://drive.google.com/file/d/1snudAq8uEmnG5tMahq4DD-vCyUTlBcYj/view?usp=sharing" target="_blank" class="list-group-item">
 			<h4 class="list-group-item-heading">Informe Pormenorizado Control Interno - Noviembre 2017 - Febrero 2018</h4>
 			<p class="list-group-item-text">
