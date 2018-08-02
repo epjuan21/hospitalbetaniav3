@@ -190,7 +190,7 @@
 
 		<div class="col-lg-12">
 			<div class="list-group">
-				<a href="https://drive.google.com/file/d/1ipvaCXm2TvK2yi00YiyNUuiU0padqaGl/view?usp=sharing" target="_blank" class="list-group-item">
+				<a href="https://drive.google.com/file/d/1XtwsUmi6Dnj6bjOAZZKs8xMfCsE6IrOk/view?usp=sharing" target="_blank" class="list-group-item">
 				<h4 class="list-group-item-heading">Plan de Acción 2018</h4>
 				<p class="list-group-item-text">
 				Plan de Acción Institucional para el 2018. <br>
