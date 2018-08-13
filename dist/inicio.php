@@ -262,30 +262,3 @@
     </div>
 
 </div>
-
-<hr>
-
-<div class="section">
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-md-12">
-                
-                <div class="page-header">
-                    <h2>Ubicación del Hospital</h2>
-                </div>
-
-                <div id="map-canvas"></div>
-
-            </div>
-
-        </div>
-        
-    </div>
-
-    <hr>
-
-
-</div>
