@@ -114,33 +114,3 @@
 	</div>
 
 </div>
-
-<hr>
-
-<div class="section">
-
-	<div class="container">
-
-		<div class="row">
-
-			<div class="col-lg-12">
-
-			<div class="page-header">
-				<h3>Ubicación en el Mapa</h3>
-			</div>
-
-			<div id="map-canvas"></div>
-
-			<hr>
-
-			</div>
-
-
-		
-		</div>
-
-	</div>
-
-	
-
-</div>
