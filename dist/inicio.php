@@ -79,12 +79,6 @@
     <div class="container">
 
         <h2>Novedades</h2>
-
-        <h3>Actualización Trámites</h3>
-            
-        <p>Se informa a la comunidad que en la sección <i>Trámites</i>, se encuentra publicado el procedimiento para la solicitud de Copia de la Historia Clínica y el Formato para realizar dicha solicitud.</p>
-        
-        <p><a href="?menu=25">Ir a Trámites</a></p>
             
         <h3>Segunda Subasta Ambulancia</h3>
         
@@ -94,39 +88,10 @@
             
         <h3>Subasta Ambulancia</h3>
 
-
         <p>La Empresa Social del Estado Hosptial San Antonio del Municipio de Betania, informa a la comunidad la subasta de la Ambulancia Nissan Frontier D22 FZ, Modelo 2008, Color Blanco, Placa OKE 529</p>
 
         <p><a href="?menu=32">Mas Información</a></p>
 
-        <h3>Rendición de Cuentas Públicas</h3>
-
-        <p>La Empresa Social del Estado Hospital San Antonio convoca a la Ciudadania en general a particupar de la Audiencia
-        Pública de Rendición de Cuentas de la vigencia 2016</p>
-
-        <ul>
-            <li>Fecha: Martes 04 de Abril de 2017</li>
-            <li>Hora: 2:00 pm</li>
-            <li>Parque Educativo</li>
-        </ul>
-
-        <p><a href="https://drive.google.com/file/d/0B88B_ynqeND5VGoycHY4OXR5TjA/view?usp=sharing" target="_blank">Ver Documento</a></p>
-
-            
-           <h3>Convocatoria</h3> 
-           <p>La ESE Hospital San Antonio de Betania abre convocatoria para proceso de selección de personal que prestará servicios de atención integral a la Primera Infancia
-            de nuestro municipio, en la modalidad de Entorno Familiar. Interesados llevar hoja de vida con sus respectivos soportes que acrediten experiencia
-            en trabajo con primera infancia.</p>    
-            
-            <h3>Requisitos</h3>
-            <ul>
-                <li>Licenciada en Primera Infancia o Educación Preescolar</li>
-                <li>Técnica en Primera Infancia</li>
-                <li>Madres Comunitarias que hayan realizado transito con el ICBF</li>
-                <li>Todos Acreditan Experiencia</li>
-            </ul>
-            
-            <p>Públicado en Febrero 09 de 2017</p>
     </div>
 
 </div>
