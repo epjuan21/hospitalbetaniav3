@@ -96,12 +96,6 @@ if (isset($_GET['menu'])){
                                             </ul>
                                         </li>
                                         <li class="dropdown">
-                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">NORMATIVIDAD <b class="caret"></b></a>
-                                            <ul class="dropdown-menu">
-                                                <li><a href="?menu=31">Vigilancia Epidemiológica</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">TRAMITES <b class="caret"></b></a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="?menu=25">Trámites</a></li>
