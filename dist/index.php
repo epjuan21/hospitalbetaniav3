@@ -65,7 +65,6 @@ if (isset($_GET['menu'])){
                                                 <li><a href="?menu=3">Reseña Histórica</a></li>
                                                 <li><a href="?menu=24">Donde Estamos</a></li>
                                                 <li><a href="?menu=28">Empleados y Contratistas</a></li>
-                                                <li><a href="?menu=30">Normatividad</a></li>
                                             </ul>
                                         </li>
                                         <li class="dropdown">
