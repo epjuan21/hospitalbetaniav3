@@ -193,20 +193,7 @@
     
     <div class="row">
         
-        <div class="col-md-6">
-            <div class="page-header">
-                <h2>Acerca de Hospital</h2>
-            </div>
-                <p>
-                    El Hospital San Antonio es una Empresa Social del Estado que presta servicios de salud del Primer Nivel, instituido para la comunidad en el municipio de Betania caracterizandose por ser integral, con personal idóneo e instalaciones habilitadas para prestar cada uno de los servicios ofertados, con calidad, oportunidad, accesibilidad, seguridad y pertinencia; donde la salud y la atención humanizada son lo esencial.
-                </p>
-                <p>
-                <a class="btn btn-default" href="?menu=3" role="button">Ver Reseña Historica</a>
-                </p>
-
-        </div>
-
-        <div class="col-md-6">
+        <div class="col-md-12">
             
             <div class="page-header">
                 <h2>Acerca de Municipio de Betania</h2>
