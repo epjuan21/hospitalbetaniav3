@@ -128,27 +128,6 @@ if (isset($_GET['menu'])){
                     include ("inicio.php");
                 }
             ?>
-
-        <section>
-
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-lg-3">
-
-                        <a href="?menu=29"><img src="img/Procuraduria.jpg"></a>
-
-                    </div>
-
-
-                </div>
-
-            </div>
-
-
-        </section>
-
         <footer>
             <div class="container">
 
