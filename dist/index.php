@@ -28,13 +28,6 @@ if (isset($_GET['menu'])){
         <!-- JAVASCRIPT -->
 
         <script src="https://code.jquery.com/jquery.js"></script>
-        <!--<script src="js/highcharts.js"></script>-->
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
-          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
-        <![endif]-->
     </head>
     <body>
         <h1 class="offscreen">Hospital San Antonio - Betania</h1>
@@ -103,7 +96,6 @@ if (isset($_GET['menu'])){
                                                 <li><a href="?menu=27">Cita Médica</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="?menu=22">CONTÁCTENOS</a></li>
                                     </ul>
                                 </div><!-- /.navbar-collapse -->
                         </nav>
