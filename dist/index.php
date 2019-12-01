@@ -81,7 +81,6 @@ if (isset($_GET['menu'])){
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">GESTIÓN <b class="caret"></b></a>
                                             <ul class="dropdown-menu">
                                                 <li><a href="?menu=4">Planes</a></li>
-                                                <li><a href="?menu=17">Estados Financieros</a></li>
                                             </ul>
                                         </li>
                                     </ul>
