@@ -82,7 +82,6 @@ if (isset($_GET['menu'])){
                                             <ul class="dropdown-menu">
                                                 <li><a href="?menu=4">Planes</a></li>
                                                 <li><a href="?menu=17">Estados Financieros</a></li>
-                                                <li><a href="?menu=18">Control Interno</a></li>
                                             </ul>
                                         </li>
                                     </ul>
