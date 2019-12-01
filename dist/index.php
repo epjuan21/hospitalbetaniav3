@@ -85,7 +85,6 @@ if (isset($_GET['menu'])){
                                                 <li><a href="?menu=18">Control Interno</a></li>
                                                 <li><a href="?menu=19">Contratación</a></li>
                                                 <li><a href="?menu=20">Presupuesto</a></li>
-                                                <li><a href="?menu=21">Rendición de Cuentas</a></li>
                                             </ul>
                                         </li>
                                     </ul>
